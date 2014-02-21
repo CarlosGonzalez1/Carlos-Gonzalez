@@ -1,0 +1,18 @@
+//
+//  main.m
+//  Carlos Gonzalez
+//
+//  Created by Walter Jose Vargas Fabes on 2/21/14.
+//  Copyright (c) 2014 Walter Jose Vargas Fabes. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+
+#import "AppDelegate.h"
+
+int main(int argc, char * argv[])
+{
+    @autoreleasepool {
+        return UIApplicationMain(argc, argv, nil, NSStringFromClass([AppDelegate class]));
+    }
+}
